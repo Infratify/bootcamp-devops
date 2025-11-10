@@ -65,3 +65,19 @@
 [LAB21](/labs/lab21.md): Operasi Fail
 
 [LAB21.5](/labs/lab21.5.md): Setup IAM User & AWS CLI untuk SSM
+
+---
+
+### 🎯 SESI 15+: DNS & Domain Management
+
+[LAB23](/labs/lab23.md): Point Root DNS Record ke AWS Server (Cloudflare)
+
+[LAB24](/labs/lab24.md): Enable Cloudflare Proxy dan Lihat Perbezaannya
+
+[LAB25](/labs/lab25.md): Ubah SSL Settings dan Lihat Perbezaannya
+
+[LAB26](/labs/lab26.md): Setup Nginx Virtual Host untuk Production dan Staging
+
+[LAB27](/labs/lab27.md): Buat Forwarding Rule Menggunakan Cloudflare
+
+[LAB28](/labs/lab28.md): Setup Cloudflare Tunnel untuk CloudPanel Admin Panel

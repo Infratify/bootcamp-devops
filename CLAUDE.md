@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Overview
 
-This is a **DevOps Bootcamp training repository** containing hands-on lab exercises in Malay language (Bahasa Melayu). The repository is structured as a learning resource for participants to practice Git workflows, AWS cloud infrastructure, and Linux fundamentals.
+This is a **DevOps Bootcamp training repository** containing hands-on lab exercises in Malay language (Bahasa Melayu). The repository is structured as a learning resource for participants to practice Git workflows, AWS cloud infrastructure, Linux fundamentals, DNS and Cloudflare.
 
 ## Repository Purpose
 
